@@ -1,50 +1,56 @@
 # 🎬 Dynamic Netflix Dashboard (Tableau)
 
-This project presents an interactive **Netflix content dashboard** built using **Tableau**. It provides insights into Netflix’s vast content library, exploring trends across countries, genres, ratings, and content types.
+This project showcases an interactive **Netflix Dashboard** developed using **Tableau**, designed to provide meaningful insights into Netflix’s extensive content library. The dashboard explores viewing trends across countries, genres, ratings, and content categories through engaging and interactive visualizations.
 
 ---
 
 ## 📂 Project Overview
 
-The dataset was sourced from a publicly available Netflix dataset and cleaned using **Excel**. Tableau was used to build a dynamic and visually appealing dashboard that allows users to explore patterns in Netflix’s global content distribution, genre trends, and maturity ratings.
+The dashboard was built using a publicly available Netflix dataset, with data preprocessing and cleaning performed in **Microsoft Excel**. Tableau was then utilized to create a dynamic and user-friendly dashboard that enables users to analyze Netflix’s global content distribution, genre preferences, and audience classifications.
 
 ---
 
-## 📊 Dashboard Features
+## 📊 Key Dashboard Features
 
 ### 🔹 Interactive Title Search
-- Filter any movie or TV show title.
-- View detailed description, release year, duration, and genre instantly.
 
-### 🔹 Content Distribution by Country
-- World map visualization showing the total number of titles available by country.
-- Helps analyze Netflix’s regional content strategy.
+* Search and filter specific movies or TV shows.
+* Instantly view details such as title description, release year, duration, and genre.
 
-### 🔹 Maturity Ratings Breakdown
-- Bar chart showing how content is distributed across different maturity levels.
-- Useful to understand age-appropriateness of content.
+### 🔹 Global Content Distribution
 
-### 🔹 Movies vs TV Shows Split
-- Bubble chart representing the ratio between movies and TV shows.
-- Highlights that movies make up ~68% of Netflix content.
+* Interactive world map displaying Netflix content availability by country.
+* Offers insight into regional content distribution and global reach.
 
-### 🔹 Genre Popularity
-- Horizontal bar chart showing the **Top 10 most common genres**.
-- Combines multiple genre tags for richer insights.
+### 🔹 Content Rating Analysis
 
-### 🔹 Time-Based Trends
-- Area chart visualizing the total content added year-over-year.
-- Differentiates between movies and TV shows to spot content growth trends.
+* Bar chart visualization showing the spread of content across maturity ratings.
+* Helps evaluate audience targeting and content suitability.
+
+### 🔹 Movies vs TV Shows Comparison
+
+* Bubble chart illustrating the proportion of movies and TV shows available on Netflix.
+* Highlights the dominance of movie content within the platform.
+
+### 🔹 Genre Trend Analysis
+
+* Horizontal bar chart showcasing the **Top 10 most popular genres**.
+* Combines genre categories to provide deeper content insights.
+
+### 🔹 Yearly Content Growth Trends
+
+* Area chart tracking content additions over time.
+* Distinguishes between movies and TV shows to reveal growth patterns and release trends.
 
 ---
 
-## 🧪 Data Preparation
+## 🧪 Data Preparation & Processing
 
-- 📥 Data cleaned in Excel (null value removal, genre separation, type normalization).
-- 🧮 Created calculated fields in Tableau (e.g., distinct count by country, genre groupings).
-- 🗂️ Filter options added for dynamic exploration (title, type, genre).
-- 🌍 Used **Mapbox** and **color encodings** for visual clarity.
-
+* Cleaned and refined raw data using **Excel** (handling null values, genre formatting, and data normalization).
+* Developed **calculated fields** in Tableau for advanced analysis and categorization.
+* Implemented **interactive filters** for title, genre, and content type to enhance exploration.
+* Applied **Mapbox integration** and color-based visual encodings for improved visual representation and usability.
+  
 ---
 
 ## 📁 Files Included
