@@ -112,9 +112,9 @@ The dataset was sourced from a publicly available Netflix dataset and cleaned us
 
 ## ✍️ Author
 
-**Aditya BG**  
+**Aditya G**  
 3rd Year CSE Student — Dayananda Sagar College of Engineering  
-Email: adityabg11@gmail.com 
+Email: aditya1618@gmail.com
 
 
 ---
