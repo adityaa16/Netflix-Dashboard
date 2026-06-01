@@ -114,7 +114,7 @@ The dataset was sourced from a publicly available Netflix dataset and cleaned us
 
 **Aditya G**  
 3rd Year CSE Student — Dayananda Sagar College of Engineering  
-Email: aditya1618@gmail.com
+Email: adityagurumurthy1618@gmail.com
 
 
 ---
